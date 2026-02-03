@@ -1,3 +1,7 @@
+## Sample Visualization
+![Monthly Spending Trend](monthly_spending_trend.png)
+
+
 # Personal Finance Expense Analysis (Python & Pandas)
 
 ## Overview
