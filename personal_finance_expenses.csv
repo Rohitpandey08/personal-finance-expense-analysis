@@ -1,0 +1,389 @@
+date,category,sub_category,amount,payment_mode,is_essential
+01-07-2025,Shopping,Amazon Purchase,1330,UPI,No
+01-07-2025,Entertainment,Movies,666,Cash,No
+01-07-2025,Utilities,Internet Bill,330,Card,Yes
+02-07-2025,Transport,Auto/Taxi,513,Card,Yes
+03-07-2025,Shopping,Clothes,659,Card,No
+03-07-2025,Health,Medicines,674,Cash,Yes
+04-07-2025,Transport,Fuel,799,Cash,Yes
+04-07-2025,Health,Medicines,762,Cash,Yes
+04-07-2025,Shopping,Electronics,846,UPI,No
+05-07-2025,Subscriptions,Netflix,800,Card,No
+06-07-2025,Transport,Fuel,664,Card,Yes
+06-07-2025,Shopping,Clothes,1678,UPI,No
+07-07-2025,Utilities,Water Bill,2155,Card,Yes
+07-07-2025,Shopping,Electronics,1329,Card,No
+07-07-2025,Entertainment,OTT,1779,Card,No
+08-07-2025,Health,Gym Membership,1015,Cash,Yes
+08-07-2025,Health,Medicines,1216,Card,Yes
+09-07-2025,Entertainment,Movies,1276,Card,No
+10-07-2025,Shopping,Amazon Purchase,692,UPI,No
+11-07-2025,Subscriptions,Netflix,1567,UPI,No
+12-07-2025,Utilities,Electricity Bill,591,Cash,Yes
+12-07-2025,Utilities,Internet Bill,1996,Card,Yes
+12-07-2025,Subscriptions,Spotify,2382,UPI,No
+13-07-2025,Food,Groceries,506,Card,Yes
+13-07-2025,Entertainment,OTT,2095,Card,No
+14-07-2025,Utilities,Internet Bill,1685,Cash,Yes
+14-07-2025,Food,Eating Out,602,Cash,Yes
+14-07-2025,Health,Medicines,592,Cash,Yes
+15-07-2025,Transport,Fuel,560,Cash,Yes
+15-07-2025,Subscriptions,Spotify,763,UPI,No
+15-07-2025,Shopping,Amazon Purchase,2478,UPI,No
+16-07-2025,Utilities,Electricity Bill,1383,Cash,Yes
+16-07-2025,Utilities,Internet Bill,2019,Card,Yes
+16-07-2025,Transport,Auto/Taxi,745,Card,Yes
+17-07-2025,Utilities,Electricity Bill,2238,UPI,Yes
+17-07-2025,Subscriptions,Spotify,1608,UPI,No
+18-07-2025,Health,Medicines,1172,UPI,Yes
+18-07-2025,Utilities,Electricity Bill,1679,Cash,Yes
+18-07-2025,Food,Groceries,324,Cash,Yes
+19-07-2025,Shopping,Clothes,1831,UPI,No
+19-07-2025,Shopping,Electronics,1720,Card,No
+20-07-2025,Subscriptions,Netflix,1836,UPI,No
+20-07-2025,Food,Groceries,101,Card,Yes
+21-07-2025,Subscriptions,Netflix,1861,Card,No
+21-07-2025,Entertainment,Movies,1895,Card,No
+22-07-2025,Shopping,Clothes,322,UPI,No
+22-07-2025,Subscriptions,Spotify,397,Card,No
+22-07-2025,Utilities,Water Bill,2391,UPI,Yes
+23-07-2025,Shopping,Electronics,1994,Cash,No
+24-07-2025,Transport,Fuel,246,Cash,Yes
+24-07-2025,Shopping,Amazon Purchase,2159,Cash,No
+24-07-2025,Transport,Auto/Taxi,878,UPI,Yes
+25-07-2025,Transport,Auto/Taxi,397,Cash,Yes
+26-07-2025,Shopping,Clothes,823,UPI,No
+26-07-2025,Shopping,Electronics,2249,UPI,No
+26-07-2025,Health,Gym Membership,1383,Cash,Yes
+27-07-2025,Food,Groceries,758,Cash,Yes
+27-07-2025,Shopping,Amazon Purchase,1896,Cash,No
+27-07-2025,Food,Groceries,521,Card,Yes
+28-07-2025,Health,Gym Membership,2400,UPI,Yes
+28-07-2025,Transport,Fuel,437,Card,Yes
+28-07-2025,Health,Medicines,1156,UPI,Yes
+29-07-2025,Shopping,Clothes,1500,Cash,No
+30-07-2025,Food,Groceries,787,Cash,Yes
+30-07-2025,Utilities,Internet Bill,1245,Card,Yes
+30-07-2025,Health,Gym Membership,762,Card,Yes
+31-07-2025,Utilities,Internet Bill,997,UPI,Yes
+31-07-2025,Shopping,Amazon Purchase,1704,UPI,No
+31-07-2025,Shopping,Amazon Purchase,858,Cash,No
+01-08-2025,Food,Snacks,257,UPI,Yes
+02-08-2025,Entertainment,OTT,1968,UPI,No
+02-08-2025,Entertainment,Movies,380,Cash,No
+03-08-2025,Shopping,Amazon Purchase,390,UPI,No
+03-08-2025,Entertainment,Movies,1384,Cash,No
+03-08-2025,Transport,Fuel,834,Card,Yes
+04-08-2025,Utilities,Internet Bill,825,Cash,Yes
+04-08-2025,Health,Medicines,354,Card,Yes
+05-08-2025,Transport,Auto/Taxi,492,Cash,Yes
+05-08-2025,Health,Medicines,1700,Card,Yes
+06-08-2025,Transport,Auto/Taxi,507,UPI,Yes
+06-08-2025,Shopping,Electronics,235,UPI,No
+06-08-2025,Shopping,Amazon Purchase,599,Card,No
+07-08-2025,Subscriptions,Netflix,1033,Cash,No
+07-08-2025,Subscriptions,Netflix,774,Card,No
+07-08-2025,Entertainment,OTT,1915,Card,No
+08-08-2025,Subscriptions,Netflix,1795,UPI,No
+08-08-2025,Subscriptions,Netflix,1076,Card,No
+09-08-2025,Utilities,Internet Bill,468,Card,Yes
+09-08-2025,Shopping,Amazon Purchase,1882,UPI,No
+09-08-2025,Subscriptions,Netflix,1281,Cash,No
+10-08-2025,Entertainment,Movies,2053,Cash,No
+10-08-2025,Subscriptions,Spotify,1212,UPI,No
+11-08-2025,Transport,Fuel,195,Card,Yes
+11-08-2025,Health,Gym Membership,687,UPI,Yes
+12-08-2025,Food,Snacks,803,Cash,Yes
+13-08-2025,Health,Gym Membership,353,Cash,Yes
+14-08-2025,Health,Medicines,1443,UPI,Yes
+15-08-2025,Food,Groceries,552,Card,Yes
+15-08-2025,Transport,Fuel,650,UPI,Yes
+15-08-2025,Health,Medicines,2270,Card,Yes
+16-08-2025,Health,Gym Membership,1831,UPI,Yes
+16-08-2025,Entertainment,OTT,535,Cash,No
+17-08-2025,Food,Snacks,259,Cash,Yes
+17-08-2025,Shopping,Electronics,1768,UPI,No
+18-08-2025,Utilities,Water Bill,1491,Cash,Yes
+19-08-2025,Food,Eating Out,142,UPI,Yes
+20-08-2025,Shopping,Clothes,953,Cash,No
+21-08-2025,Food,Eating Out,704,Card,Yes
+21-08-2025,Transport,Fuel,517,Cash,Yes
+21-08-2025,Food,Groceries,600,Card,Yes
+22-08-2025,Utilities,Water Bill,928,UPI,Yes
+23-08-2025,Food,Eating Out,556,Cash,Yes
+24-08-2025,Utilities,Internet Bill,1177,UPI,Yes
+25-08-2025,Subscriptions,Spotify,236,UPI,No
+25-08-2025,Subscriptions,Spotify,2464,Cash,No
+25-08-2025,Food,Groceries,161,UPI,Yes
+26-08-2025,Entertainment,OTT,2424,UPI,No
+26-08-2025,Food,Snacks,364,Cash,Yes
+27-08-2025,Subscriptions,Spotify,1050,Card,No
+27-08-2025,Subscriptions,Netflix,595,UPI,No
+28-08-2025,Entertainment,OTT,1367,UPI,No
+28-08-2025,Subscriptions,Netflix,1265,Card,No
+28-08-2025,Subscriptions,Spotify,833,UPI,No
+29-08-2025,Subscriptions,Netflix,950,UPI,No
+29-08-2025,Transport,Auto/Taxi,352,Card,Yes
+29-08-2025,Subscriptions,Netflix,1391,Card,No
+30-08-2025,Transport,Auto/Taxi,293,UPI,Yes
+31-08-2025,Entertainment,Movies,1719,UPI,No
+01-09-2025,Health,Gym Membership,710,Cash,Yes
+02-09-2025,Entertainment,OTT,2010,UPI,No
+03-09-2025,Subscriptions,Netflix,2081,Cash,No
+03-09-2025,Subscriptions,Netflix,372,UPI,No
+04-09-2025,Shopping,Electronics,1883,UPI,No
+04-09-2025,Subscriptions,Spotify,2196,Card,No
+05-09-2025,Subscriptions,Netflix,1023,UPI,No
+06-09-2025,Entertainment,OTT,884,UPI,No
+06-09-2025,Entertainment,Movies,279,Card,No
+07-09-2025,Utilities,Water Bill,1899,Cash,Yes
+08-09-2025,Shopping,Clothes,2294,UPI,No
+08-09-2025,Food,Eating Out,514,UPI,Yes
+08-09-2025,Entertainment,OTT,670,UPI,No
+09-09-2025,Shopping,Amazon Purchase,1167,Card,No
+09-09-2025,Shopping,Clothes,572,Card,No
+09-09-2025,Shopping,Amazon Purchase,739,UPI,No
+10-09-2025,Shopping,Amazon Purchase,1424,UPI,No
+11-09-2025,Shopping,Amazon Purchase,1124,UPI,No
+12-09-2025,Utilities,Water Bill,1817,Cash,Yes
+12-09-2025,Entertainment,OTT,209,Card,No
+13-09-2025,Utilities,Electricity Bill,1215,UPI,Yes
+13-09-2025,Health,Gym Membership,423,Cash,Yes
+14-09-2025,Utilities,Internet Bill,262,UPI,Yes
+15-09-2025,Utilities,Water Bill,1684,UPI,Yes
+15-09-2025,Transport,Fuel,610,UPI,Yes
+16-09-2025,Subscriptions,Spotify,2200,UPI,No
+17-09-2025,Entertainment,OTT,1660,Cash,No
+17-09-2025,Entertainment,OTT,913,Card,No
+17-09-2025,Utilities,Electricity Bill,2101,UPI,Yes
+18-09-2025,Entertainment,OTT,1669,UPI,No
+18-09-2025,Food,Eating Out,133,Cash,Yes
+18-09-2025,Subscriptions,Spotify,873,Card,No
+19-09-2025,Utilities,Internet Bill,467,UPI,Yes
+19-09-2025,Health,Gym Membership,962,UPI,Yes
+20-09-2025,Subscriptions,Netflix,1452,UPI,No
+21-09-2025,Transport,Auto/Taxi,202,Card,Yes
+21-09-2025,Shopping,Amazon Purchase,1529,Card,No
+22-09-2025,Health,Gym Membership,646,Card,Yes
+22-09-2025,Shopping,Electronics,1558,Card,No
+23-09-2025,Transport,Auto/Taxi,232,UPI,Yes
+23-09-2025,Shopping,Electronics,1553,UPI,No
+23-09-2025,Shopping,Clothes,268,Card,No
+24-09-2025,Entertainment,Movies,2373,Cash,No
+24-09-2025,Utilities,Electricity Bill,2106,Cash,Yes
+25-09-2025,Subscriptions,Netflix,2342,Cash,No
+26-09-2025,Shopping,Clothes,1919,UPI,No
+26-09-2025,Utilities,Water Bill,866,UPI,Yes
+27-09-2025,Entertainment,Movies,1228,Card,No
+27-09-2025,Shopping,Electronics,1628,Card,No
+28-09-2025,Entertainment,Movies,2168,Card,No
+29-09-2025,Entertainment,Movies,2496,Cash,No
+29-09-2025,Food,Eating Out,155,Card,Yes
+30-09-2025,Subscriptions,Netflix,536,Card,No
+30-09-2025,Shopping,Amazon Purchase,824,Cash,No
+30-09-2025,Entertainment,OTT,502,Cash,No
+01-10-2025,Health,Gym Membership,2325,Card,Yes
+01-10-2025,Entertainment,Movies,1535,Cash,No
+02-10-2025,Utilities,Water Bill,1974,UPI,Yes
+02-10-2025,Transport,Fuel,838,Cash,Yes
+02-10-2025,Subscriptions,Netflix,1854,UPI,No
+03-10-2025,Subscriptions,Netflix,1454,Card,No
+03-10-2025,Transport,Fuel,636,UPI,Yes
+04-10-2025,Shopping,Electronics,266,UPI,No
+05-10-2025,Transport,Fuel,210,Card,Yes
+06-10-2025,Subscriptions,Spotify,1741,Card,No
+06-10-2025,Transport,Fuel,414,UPI,Yes
+07-10-2025,Entertainment,OTT,1660,Card,No
+07-10-2025,Entertainment,Movies,1726,Card,No
+08-10-2025,Health,Medicines,1830,Cash,Yes
+08-10-2025,Food,Groceries,342,Cash,Yes
+08-10-2025,Entertainment,OTT,1446,Card,No
+09-10-2025,Shopping,Amazon Purchase,203,Cash,No
+09-10-2025,Health,Gym Membership,1829,Card,Yes
+10-10-2025,Health,Gym Membership,1046,Cash,Yes
+10-10-2025,Transport,Fuel,399,UPI,Yes
+10-10-2025,Health,Gym Membership,2010,UPI,Yes
+11-10-2025,Shopping,Clothes,2337,Card,No
+12-10-2025,Entertainment,OTT,2226,Cash,No
+12-10-2025,Food,Groceries,109,UPI,Yes
+13-10-2025,Transport,Auto/Taxi,112,Card,Yes
+13-10-2025,Shopping,Clothes,1836,UPI,No
+13-10-2025,Food,Groceries,649,Cash,Yes
+14-10-2025,Health,Medicines,1804,Card,Yes
+14-10-2025,Shopping,Amazon Purchase,533,UPI,No
+14-10-2025,Utilities,Water Bill,1770,UPI,Yes
+15-10-2025,Shopping,Amazon Purchase,1072,UPI,No
+15-10-2025,Health,Gym Membership,1514,UPI,Yes
+16-10-2025,Entertainment,Movies,277,Card,No
+17-10-2025,Shopping,Electronics,1265,UPI,No
+17-10-2025,Transport,Auto/Taxi,394,Card,Yes
+18-10-2025,Entertainment,Movies,1246,Cash,No
+18-10-2025,Subscriptions,Netflix,2392,UPI,No
+18-10-2025,Subscriptions,Netflix,2197,UPI,No
+19-10-2025,Subscriptions,Netflix,1869,Cash,No
+19-10-2025,Subscriptions,Spotify,1671,Cash,No
+19-10-2025,Subscriptions,Spotify,2235,Card,No
+20-10-2025,Utilities,Internet Bill,1320,UPI,Yes
+20-10-2025,Entertainment,OTT,1477,Card,No
+20-10-2025,Transport,Auto/Taxi,734,Card,Yes
+21-10-2025,Health,Gym Membership,1014,UPI,Yes
+22-10-2025,Entertainment,OTT,2294,UPI,No
+22-10-2025,Transport,Fuel,726,Cash,Yes
+22-10-2025,Shopping,Electronics,2034,Cash,No
+23-10-2025,Shopping,Clothes,2065,Card,No
+24-10-2025,Subscriptions,Netflix,562,Card,No
+24-10-2025,Entertainment,Movies,1184,UPI,No
+25-10-2025,Shopping,Electronics,555,UPI,No
+25-10-2025,Entertainment,OTT,803,Cash,No
+25-10-2025,Transport,Fuel,150,UPI,Yes
+26-10-2025,Food,Snacks,506,UPI,Yes
+26-10-2025,Health,Medicines,1845,Card,Yes
+27-10-2025,Food,Groceries,666,Cash,Yes
+27-10-2025,Subscriptions,Netflix,1532,UPI,No
+27-10-2025,Transport,Auto/Taxi,216,Card,Yes
+28-10-2025,Utilities,Electricity Bill,736,Card,Yes
+29-10-2025,Health,Medicines,674,Card,Yes
+29-10-2025,Utilities,Internet Bill,1138,Cash,Yes
+29-10-2025,Shopping,Amazon Purchase,1405,UPI,No
+30-10-2025,Shopping,Electronics,2079,UPI,No
+30-10-2025,Food,Eating Out,761,Card,Yes
+30-10-2025,Shopping,Clothes,1166,UPI,No
+31-10-2025,Food,Eating Out,441,Cash,Yes
+01-11-2025,Food,Groceries,835,UPI,Yes
+02-11-2025,Subscriptions,Netflix,1151,Cash,No
+02-11-2025,Health,Medicines,628,UPI,Yes
+03-11-2025,Utilities,Electricity Bill,1594,Cash,Yes
+03-11-2025,Transport,Fuel,212,Card,Yes
+04-11-2025,Health,Gym Membership,2120,UPI,Yes
+04-11-2025,Subscriptions,Spotify,999,Card,No
+05-11-2025,Utilities,Internet Bill,2334,Cash,Yes
+05-11-2025,Shopping,Amazon Purchase,1032,UPI,No
+06-11-2025,Utilities,Electricity Bill,1990,UPI,Yes
+06-11-2025,Health,Medicines,1487,Card,Yes
+06-11-2025,Utilities,Electricity Bill,1511,Card,Yes
+07-11-2025,Shopping,Amazon Purchase,381,UPI,No
+07-11-2025,Health,Medicines,1143,Card,Yes
+07-11-2025,Subscriptions,Spotify,2398,UPI,No
+08-11-2025,Entertainment,OTT,1508,Card,No
+08-11-2025,Transport,Auto/Taxi,808,Cash,Yes
+08-11-2025,Transport,Auto/Taxi,806,Cash,Yes
+09-11-2025,Shopping,Amazon Purchase,1004,Card,No
+09-11-2025,Health,Medicines,1276,Cash,Yes
+09-11-2025,Shopping,Amazon Purchase,1587,UPI,No
+10-11-2025,Health,Medicines,327,UPI,Yes
+10-11-2025,Transport,Fuel,625,UPI,Yes
+11-11-2025,Entertainment,Movies,1981,Card,No
+11-11-2025,Utilities,Internet Bill,641,UPI,Yes
+12-11-2025,Transport,Fuel,174,Card,Yes
+13-11-2025,Entertainment,OTT,240,Card,No
+13-11-2025,Transport,Fuel,252,Card,Yes
+14-11-2025,Shopping,Clothes,541,UPI,No
+14-11-2025,Utilities,Water Bill,845,Cash,Yes
+15-11-2025,Shopping,Amazon Purchase,654,Card,No
+15-11-2025,Entertainment,OTT,901,Card,No
+16-11-2025,Transport,Fuel,462,UPI,Yes
+16-11-2025,Utilities,Electricity Bill,1594,Card,Yes
+17-11-2025,Entertainment,OTT,2258,UPI,No
+18-11-2025,Subscriptions,Spotify,1533,Card,No
+18-11-2025,Subscriptions,Spotify,957,Card,No
+18-11-2025,Entertainment,Movies,1985,Cash,No
+19-11-2025,Utilities,Water Bill,564,Cash,Yes
+19-11-2025,Transport,Auto/Taxi,549,UPI,Yes
+19-11-2025,Food,Groceries,116,UPI,Yes
+20-11-2025,Entertainment,OTT,2289,UPI,No
+21-11-2025,Utilities,Water Bill,1452,Cash,Yes
+21-11-2025,Health,Medicines,1836,Cash,Yes
+21-11-2025,Utilities,Water Bill,1240,Card,Yes
+22-11-2025,Subscriptions,Netflix,211,Card,No
+23-11-2025,Subscriptions,Spotify,1950,UPI,No
+23-11-2025,Health,Gym Membership,1423,UPI,Yes
+23-11-2025,Transport,Fuel,754,Cash,Yes
+24-11-2025,Food,Snacks,146,Card,Yes
+24-11-2025,Subscriptions,Spotify,2017,UPI,No
+25-11-2025,Transport,Fuel,434,UPI,Yes
+25-11-2025,Subscriptions,Netflix,1721,Cash,No
+26-11-2025,Entertainment,Movies,1189,Cash,No
+26-11-2025,Utilities,Electricity Bill,814,UPI,Yes
+26-11-2025,Health,Gym Membership,2435,UPI,Yes
+27-11-2025,Utilities,Internet Bill,382,Cash,Yes
+27-11-2025,Shopping,Electronics,1572,Card,No
+28-11-2025,Entertainment,OTT,215,UPI,No
+29-11-2025,Shopping,Clothes,510,Cash,No
+29-11-2025,Transport,Auto/Taxi,350,Cash,Yes
+30-11-2025,Entertainment,Movies,1831,Cash,No
+01-12-2025,Subscriptions,Netflix,228,Card,No
+01-12-2025,Food,Groceries,344,UPI,Yes
+01-12-2025,Shopping,Amazon Purchase,465,Card,No
+02-12-2025,Subscriptions,Netflix,588,UPI,No
+03-12-2025,Food,Groceries,241,Card,Yes
+03-12-2025,Transport,Fuel,392,UPI,Yes
+04-12-2025,Entertainment,OTT,598,UPI,No
+05-12-2025,Shopping,Clothes,2241,UPI,No
+06-12-2025,Entertainment,Movies,909,Cash,No
+07-12-2025,Health,Gym Membership,1285,UPI,Yes
+07-12-2025,Transport,Fuel,663,Cash,Yes
+07-12-2025,Shopping,Amazon Purchase,1533,UPI,No
+08-12-2025,Entertainment,Movies,425,UPI,No
+08-12-2025,Transport,Fuel,605,Cash,Yes
+08-12-2025,Health,Gym Membership,253,Cash,Yes
+09-12-2025,Food,Eating Out,119,Card,Yes
+09-12-2025,Food,Groceries,589,Cash,Yes
+09-12-2025,Transport,Fuel,244,Cash,Yes
+10-12-2025,Health,Gym Membership,1092,Cash,Yes
+10-12-2025,Food,Eating Out,456,Card,Yes
+10-12-2025,Utilities,Water Bill,1187,UPI,Yes
+11-12-2025,Utilities,Water Bill,1555,Card,Yes
+12-12-2025,Subscriptions,Spotify,1618,Cash,No
+13-12-2025,Shopping,Electronics,1474,UPI,No
+13-12-2025,Transport,Fuel,136,UPI,Yes
+14-12-2025,Entertainment,OTT,1524,Card,No
+15-12-2025,Utilities,Water Bill,1791,Card,Yes
+16-12-2025,Entertainment,Movies,1485,Cash,No
+16-12-2025,Shopping,Amazon Purchase,1904,UPI,No
+16-12-2025,Utilities,Electricity Bill,1916,Card,Yes
+17-12-2025,Utilities,Internet Bill,2254,UPI,Yes
+17-12-2025,Utilities,Water Bill,1254,Cash,Yes
+17-12-2025,Transport,Fuel,462,UPI,Yes
+18-12-2025,Subscriptions,Netflix,788,UPI,No
+18-12-2025,Shopping,Clothes,1447,UPI,No
+19-12-2025,Utilities,Water Bill,2264,Cash,Yes
+19-12-2025,Transport,Auto/Taxi,464,Cash,Yes
+20-12-2025,Utilities,Internet Bill,785,UPI,Yes
+20-12-2025,Transport,Fuel,671,Cash,Yes
+21-12-2025,Entertainment,Movies,1419,Card,No
+21-12-2025,Shopping,Electronics,1240,Card,No
+22-12-2025,Transport,Fuel,121,Card,Yes
+23-12-2025,Transport,Auto/Taxi,803,Cash,Yes
+23-12-2025,Entertainment,Movies,962,Cash,No
+23-12-2025,Shopping,Amazon Purchase,1230,UPI,No
+24-12-2025,Food,Groceries,178,Cash,Yes
+24-12-2025,Utilities,Internet Bill,1653,Card,Yes
+24-12-2025,Entertainment,OTT,238,Cash,No
+25-12-2025,Entertainment,OTT,2023,Card,No
+25-12-2025,Subscriptions,Spotify,1762,Cash,No
+25-12-2025,Food,Snacks,539,UPI,Yes
+26-12-2025,Subscriptions,Netflix,283,Card,No
+27-12-2025,Food,Groceries,606,UPI,Yes
+27-12-2025,Transport,Auto/Taxi,626,Card,Yes
+27-12-2025,Entertainment,Movies,992,Card,No
+28-12-2025,Shopping,Electronics,1807,Card,No
+28-12-2025,Food,Snacks,408,Cash,Yes
+28-12-2025,Utilities,Water Bill,2235,Cash,Yes
+29-12-2025,Entertainment,Movies,892,Card,No
+29-12-2025,Utilities,Electricity Bill,726,UPI,Yes
+29-12-2025,Health,Medicines,1459,UPI,Yes
+30-12-2025,Food,Groceries,825,Card,Yes
+30-12-2025,Entertainment,Movies,1567,Cash,No
+31-12-2025,Food,Groceries,373,Card,Yes
+01-07-2025,Rent,House Rent,12000,UPI,Yes
+01-07-2025,EMI,Personal Loan EMI,4200,AutoDebit,Yes
+01-08-2025,Rent,House Rent,12000,UPI,Yes
+01-08-2025,EMI,Personal Loan EMI,4200,AutoDebit,Yes
+01-09-2025,Rent,House Rent,12000,UPI,Yes
+01-09-2025,EMI,Personal Loan EMI,4200,AutoDebit,Yes
+01-10-2025,Rent,House Rent,12000,UPI,Yes
+01-10-2025,EMI,Personal Loan EMI,4200,AutoDebit,Yes
+01-11-2025,Rent,House Rent,12000,UPI,Yes
+01-11-2025,EMI,Personal Loan EMI,4200,AutoDebit,Yes
+01-12-2025,Rent,House Rent,12000,UPI,Yes
+01-12-2025,EMI,Personal Loan EMI,4200,AutoDebit,Yes
